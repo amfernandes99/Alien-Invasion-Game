@@ -19,7 +19,7 @@ class Settings:
         self.ship_limit = 3
 
         # How quickly the game speeds up
-        self.speedup_scale = 1.1
+        self.speedup_scale = 1.2
 
         # How quickly the alien point values increase
         self.score_scale = 1.5
